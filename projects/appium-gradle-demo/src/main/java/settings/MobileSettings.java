@@ -33,7 +33,7 @@ public class MobileSettings {
          **/
 
 
-        this.platform = PlatformType.Android;
+        this.platform = PlatformType.iOS;
         this.app = "https://github.com/dtopuzov/mobile-testing/raw/master/testapps/ios-calculator.zip";
         this.deviceName = "iPhone 5s";
         this.platformVersion = "11.3";
